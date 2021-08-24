@@ -1,0 +1,88 @@
+"Phrases"
+{
+	"menu_title"
+	{
+		"ru"		"Музыка в конце раунда"
+		"en"		"Music at the round end"
+	}
+	"menu_volume"
+	{
+		"ru"		"Громкость:"
+		"en"		"Volume:"
+	}
+	"menu_increase"
+	{
+		"ru"		"Увеличить громкость"
+		"en"		"Increase the volume"
+	}
+	"menu_decrease"
+	{
+		"ru"		"Уменьшить громкость"
+		"en"		"Decrease the volume"
+	}
+	"menu_status"
+	{
+		"ru"		"Музыка в конце раунда"
+		"en"		"Music at the round end"
+	}
+	"menu_print"
+	{
+		"ru"		"Названия треков в чате"
+		"en"		"Music at the round end"
+	}
+	"menu_choose"
+	{
+		"ru"		"Выбор плейлиста"
+		"en"		"Select playlist"
+	}
+	"choose_menu_title"
+	{
+		"ru"		"Выбор плейлиста"
+		"en"		"Select playlist"
+	}
+	
+	"chat_increase"
+	{
+		"#format"	"{1:i}"
+		"ru"		"Вы увеличили громкость музыки в конце раунда до {1}%."
+		"en"		"You have increased the music volume to {1}%."
+	}
+	"chat_decrease"
+	{
+		"#format"	"{1:i}"
+		"ru"		"Вы уменьшили громкость музыки в конце раунда до {1}%."
+		"en"		"You have decreased the music volume to {1}%."
+	}
+	"chat_status_on"
+	{
+		"ru"		"Вы включили музыку в конце раунда."
+		"en"		"You turned on the music at the end of the round."
+	}
+	"chat_status_off"
+	{
+		"ru"		"Вы отключили музыку в конце раунда."
+		"en"		"You turned off the music at the end of the round."
+	}
+	"chat_print_on"
+	{
+		"ru"		"Вы включили вывод информации о треке в чат."
+		"en"		"You turned on the output of track information in the chat."
+	}
+	"chat_print_off"
+	{
+		"ru"		"Вы отключили вывод информации о треке в чат."
+		"en"		"You turned off the output of track information in the chat."
+	}
+	"chat_choose"
+	{
+		"#format"	"{1:s}"
+		"ru"		"Вы выбрали плейлист {green}{1}{default}."
+		"en"		"You selected the {green}{1}{default} playlist."
+	}
+	"print_msg"
+	{
+		"#format"	"{1:s}"
+		"ru"		"Играет: {green}{1}"
+		"en"		"Playing: {green}{1}"
+	}
+}
